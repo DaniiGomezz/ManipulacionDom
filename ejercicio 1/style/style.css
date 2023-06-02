@@ -1,0 +1,14 @@
+* {
+    margin: 0 auto;
+    padding: 0.5rem;
+}
+
+p {
+    color: purple;
+    font-weight: bold;
+
+}
+
+.orange-text {
+    color: orange
+}
